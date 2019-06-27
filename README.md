@@ -24,6 +24,6 @@ You will use the Python and its libraries followed:
 
 1. Introduction
 2. Data Wrangling
-  * Data Cleaning
+    - Data Cleaning
 3. Exploratory Data Analysis
 4. Conclusions
